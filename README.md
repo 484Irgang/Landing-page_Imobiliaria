@@ -6,8 +6,8 @@
 <h1> :page_with_curl: Description </h1>
 <p align="center">Mais um projeto Front-end no qual estarei chamando de "Learning to code", projeto já feito há alguns meses atrás no meu inicio como desenvolvedor,
 atualmente estou apenas deixando um pouco organizado para que seja possivel analisar meus codigos iniciais de quando comecei a estudar HTML e CSS3, o template modelo
-foi feito pela plataforma de cursos Danki Code, de onde foi feito o clone de todo o design, porém o código foi feito do zero sem nenhum tipo de cópia, projeto extremamente
-simples, porém dando o ponta pé inicial com a responsividade</p>
+foi feito pela plataforma de cursos Danki Code, de onde foi feito o clone de todo o design, porém o código foi feito do zero sem nenhum tipo de cópia, projeto extremamentesimples, porém dando o ponta pé inicial com a responsividade</p><br/>
+<p align="center"><a href="https://484irgang.github.io/Landing-page_Imobiliaria"><img src="https://user-images.githubusercontent.com/99806060/222916437-17f4614a-6f50-4511-ae64-d28b283e3801.png"/></a></p>
   
 <h1> :camera: Images</h1>
 <p><img src="./images/Readme/Landing-page_imobiliaria_2.png"/></p>
